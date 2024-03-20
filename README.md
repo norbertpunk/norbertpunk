@@ -8,4 +8,4 @@ Here, I explore ML models and AI concepts, aiming to demystify these fields bit 
 
 Here we go! Let's follow our curiosity and learn!
 
-- ⚡ Fun fact: Coriosity kills the cat
+- ⚡ Fun fact: Curiosity killed the cat
