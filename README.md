@@ -1,9 +1,22 @@
-### Hello there 👋
+### Hello there! 👋
 
-Norbi here. I'm diving into data science, starting from ground zero, balancing university courses and self-learning to master data science and ML.
+I'm diving into data science and machine learning from the ground up, balancing university courses with self-learning and hands-on projects.
 
-Here, I explore ML models and AI concepts, aiming to demystify these fields bit by bit.
+# 🧠 I'm Working On
+- Foundations: calculus, linear algebra, and probability  
+- Key statistics: descriptive stats, hypothesis testing, regression, Bayesian inference  
+- Building and testing machine learning models  
+- Breaking down AI and data concepts
 
-Here we go! Let's follow our curiosity and learn!
+# 🛠 Tools I'm Using
+- **Python**
+- **PyTorch**, **scikit-learn**, **pandas**, **NumPy**, **Matplotlib**, **Jupyter**
+- **R***
+- **SPSS** / **Minitab**
+- **Maxima**
 
-- ⚡ Fun fact: Curiosity killed the cat
+# 🎯 Goals
+- Build strong math, stats, and ML foundations  
+- Apply theory through projects and code  
+
+# 🧩 Sharks don’t sell ice cream. Ice cream doesn’t bite. But data bites.
